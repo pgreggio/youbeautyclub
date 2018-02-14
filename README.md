@@ -1,2 +1,2 @@
 # youbeautyclub
-Busca e agendamento de serviços de beleza
+Esta é uma plataforma para busca e agendamento de serviços de beleza.
